@@ -17,4 +17,4 @@ Run the train_segmentation notebook to train the model. Set the Experiment_Name 
 To test the models, open the test_segmentation notebook. Set the name of the model_path variable as the particular loss function model .pth file you want to test.
 Loss function definitions and instance creations are commented within the notebooks.
 
-Finally, special thanks to [Hasib Zunair](https://github.com/hasibzunair) for his generous guidance on this project and his gift with the source code. 
+***Finally, special thanks to [Hasib Zunair](https://github.com/hasibzunair) for his generous guidance on this project and his gift with the source code.*** 
